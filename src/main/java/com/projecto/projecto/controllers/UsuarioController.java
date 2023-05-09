@@ -10,6 +10,6 @@ public class UsuarioController {
 
     @RequestMapping(value = "prueba")
     public List<String> prueba(){
-        return List.of("123", "456");
+        return List.of("123", "4567");
     }
 }
